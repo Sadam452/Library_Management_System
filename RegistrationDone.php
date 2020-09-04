@@ -44,6 +44,6 @@ echo "Registration failed ,try again";
 </p>
 <p><b>
 Register again <a href="Registration.php">Here</a><br><hr>
-Go to login page <a href="Interface.php">Here</a></b></p>
+Go to login page <a href="index.php">Here</a></b></p>
 </body>
 </html>
