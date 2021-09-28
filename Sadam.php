@@ -85,7 +85,7 @@ border:2px solid khaki;}
 </table> 
 </div>
 <div id="s2">
-<p><b>I ALSO THANK THOSE WHO GAVE  VALUABLE SUGGESTIONS, YOUR EFFORT WILL BE ALWAYS REMEMBERED...THANKS AGAIN!</B></P>
+<p><b>I ALSO THANK ....!</B></P>
 <pre><u>THE GREATEST
 PLEASURE IN LIFE
 IS DOING
