@@ -1,2 +1,3 @@
 # LIBRARY MANAGEMENT SYSTEM
-This is small library management system in which users can register and avail various services like getting book. Admin can add, delete, issue books.
+
+This GitHub repository hosts the codebase for a user-friendly Library Management System. Built using HTML, CSS, PHP, JavaScript and MySQL, the system offers a range of features for both users and administrators. Students can register, borrow, renew, and track books, while admins can manage the library inventory, issue and return books, and oversee user information. The project showcases a practical application of web technologies in simplifying library operations and promoting efficient book management. Explore the code to understand the implementation and contribute to its further development.
